@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPSPEAKING</string>
+    <string name="title_activity_audio_chat">AudioChat</string>
+    <string name="fotoPerfil">GPSPEAKING</string>
+    <string name="users">USERS</string>
+    <string name="login">LOGIN</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

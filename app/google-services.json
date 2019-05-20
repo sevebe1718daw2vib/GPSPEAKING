@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572140523392",
+    "firebase_url": "https://proyecto-11832.firebaseio.com",
+    "project_id": "proyecto-11832",
+    "storage_bucket": "proyecto-11832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572140523392:android:af97b8d1c8fbd125",
+        "android_client_info": {
+          "package_name": "com.example.gpspeaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572140523392-15qndhf64oia4bd4t7nvbiafeoh31civ.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gpspeaking",
+            "certificate_hash": "3521dbfe9ae08c977decd5c420ec26973af95061"
+          }
+        },
+        {
+          "client_id": "572140523392-tcuh2vusv6nuur18kau7ee0qm7u9tls1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvzXV2jejFoAUTbF5wNUMgfzzWk7qoXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572140523392-tcuh2vusv6nuur18kau7ee0qm7u9tls1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

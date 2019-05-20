@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79577122393",
+    "firebase_url": "https://audiochat-871a1.firebaseio.com",
+    "project_id": "audiochat-871a1",
+    "storage_bucket": "audiochat-871a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79577122393:android:af97b8d1c8fbd125",
+        "android_client_info": {
+          "package_name": "com.example.gpspeaking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79577122393-lrfutlqpe7ftvnd6f0hsmp02oe6u0kb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHmRiqCNi-olt8cHSoJoBaGmvYnaWp5s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79577122393-lrfutlqpe7ftvnd6f0hsmp02oe6u0kb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#486974"
+    tools:context=".LoginActivity">
+
+    <ImageView
+        android:layout_width="208dp"
+        android:layout_height="191dp"
+        android:layout_gravity="center"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/iconoapp" />
+
+    <EditText
+        android:id="@+id/txtCorreo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="240dp"
+        android:hint="Correo electronico"
+        android:textAlignment="center"
+        android:textColor="#0FCCE7" />
+
+    <EditText
+        android:id="@+id/txtContrasena"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="300dp"
+        android:hint="Contraseña"
+        android:textAlignment="center"
+        android:textColor="#0FCCE7" />
+
+    <EditText
+        android:id="@+id/txtUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="400dp"
+        android:hint="username"
+        android:textAlignment="center"
+        android:textColor="#0FCCE7" />
+
+    <Button
+        android:id="@+id/btnLogear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtUsername"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="45dp"
+        android:background="#7C2440"
+        android:text="LOGIN"
+        android:textColor="#0EA5D8"
+        android:textColorHighlight="#485192" />
+
+</RelativeLayout>
